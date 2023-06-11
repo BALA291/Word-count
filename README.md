@@ -36,6 +36,8 @@ print("Number of wordds:",wordslen)
 ```
 ### OUTPUT:
 ![5AOUTII](https://github.com/BALA291/Word-count/assets/120717501/38e14215-e479-42c9-8dd8-9567c6aab340)
+
+
 ![5AOUT](https://github.com/BALA291/Word-count/assets/120717501/9d20e863-bc0b-493b-bd90-240b92c47647)
 
 ## RESULT:
